@@ -5,7 +5,7 @@ The package comprises two Python scripts:	- VerySNP_training for automatic train
 
 VerySNP_training performs a parameter-search during a 10-fold cross validation on the provided training data. Afterwards VerySNP_test selects the best model (in terms of MCC - Matthews Correlation Coefficient), which is then used to predict unknown variants in test data. As output VerySNP_test assigns a class to each variant of the input file adding +1/-1 at the beginning of each variant line in the VCF format: if the variant belongs to the +1 class, it means the variant is likely true, while if it belongs to the -1 class, means that VerySNP predicted that variant as false.
 
-VerySNP is available at https://github.com/leonardell/VerySNP
+VerySNP is available at https://github.com/leonardelli/VerySNP
 
 VerySNP is currently submitted for publication to Bioinformatics:
 Lorena Leonardelli, Carmen Maria Livi, Patrice This, Charles Romieu, Claudio Moser and Alessandro Cestaro; "VerySNP: a SVM based tool to get accurate variant calling".
