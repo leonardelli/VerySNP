@@ -8,7 +8,7 @@ VerySNP_training performs a parameter-search during a 10-fold cross validation o
 VerySNP is available at https://github.com/leonardelli/VerySNP
 
 VerySNP is currently submitted for publication to Bioinformatics:
-Lorena Leonardelli, Carmen Maria Livi, Patrice This, Charles Romieu, Claudio Moser and Alessandro Cestaro; "VerySNP: a SVM based tool to get accurate variant calling".
+Lorena Leonardelli, Carmen Maria Livi, Patrice This, Charles Romieu, Claudio Moser and Alessandro Cestaro; "VerySNP: a SVM based tool for accurate variant calling".
 
 
 Table of Contents
